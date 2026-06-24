@@ -1,0 +1,505 @@
+Underlying Cause of Death, 2023, age 0-19, Injury Mechanism: by Age, Sex
+Notes,Injury Mechanism & All Other Leading Causes,Injury Mechanism & All Other Leading Causes Code,Single-Year Ages,Single-Year Ages Code,Sex,Sex Code,Deaths,Population,Crude Rate
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,< 1 year,0,Male,M,5531,1864508,296.6
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,< 1 year,0,Female,F,4361,1784146,244.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,< 1 year,0,Male,M,2083,1864508,111.7
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,< 1 year,0,Female,F,1922,1784146,107.7
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,< 1 year,0,Male,M,1464,1864508,78.5
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,< 1 year,0,Female,F,1128,1784146,63.2
+,Firearm,GRINJ-006,19 years,19,Male,M,875,2241042,39.0
+,Firearm,GRINJ-006,18 years,18,Male,M,800,2228634,35.9
+,Firearm,GRINJ-006,17 years,17,Male,M,655,2248723,29.1
+,Suffocation,GRINJ-017,< 1 year,0,Male,M,629,1864508,33.7
+,Motor Vehicle Traffic,GRINJ-008,18 years,18,Male,M,594,2228634,26.7
+,Motor Vehicle Traffic,GRINJ-008,19 years,19,Male,M,588,2241042,26.2
+,Firearm,GRINJ-006,16 years,16,Male,M,547,2287751,23.9
+,Suffocation,GRINJ-017,< 1 year,0,Female,F,516,1784146,28.9
+,Suffocation,GRINJ-017,< 1 year,0,Female,F,516,1784146,28.9
+,Poisoning,GRINJ-015,19 years,19,Male,M,410,2241042,18.3
+,Motor Vehicle Traffic,GRINJ-008,17 years,17,Male,M,407,2248723,18.1
+,Firearm,GRINJ-006,15 years,15,Male,M,389,2290485,17.0
+,Non-Injury: All other diseases (Residual),GR113-111,< 1 year,0,Male,M,339,1864508,18.2
+,Motor Vehicle Traffic,GRINJ-008,16 years,16,Male,M,271,2287751,11.8
+,Poisoning,GRINJ-015,18 years,18,Male,M,271,2228634,12.2
+,Non-Injury: All other diseases (Residual),GR113-111,< 1 year,0,Female,F,255,1784146,14.3
+,Motor Vehicle Traffic,GRINJ-008,18 years,18,Female,F,221,2128851,10.4
+,Motor Vehicle Traffic,GRINJ-008,19 years,19,Female,F,221,2143573,10.3
+,Firearm,GRINJ-006,14 years,14,Male,M,220,2205676,10.0
+,Poisoning,GRINJ-015,19 years,19,Female,F,196,2143573,9.1
+,Motor Vehicle Traffic,GRINJ-008,17 years,17,Female,F,190,2146325,8.9
+,Poisoning,GRINJ-015,17 years,17,Male,M,184,2248723,8.2
+,Motor Vehicle Traffic,GRINJ-008,15 years,15,Male,M,180,2290485,7.9
+,Poisoning,GRINJ-015,18 years,18,Female,F,158,2128851,7.4
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,< 1 year,0,Male,M,145,1864508,7.8
+,Non-Injury: Diseases of Heart,GR113 055-068,< 1 year,0,Male,M,143,1864508,7.7
+,Poisoning,GRINJ-015,16 years,16,Male,M,134,2287751,5.9
+,Suffocation,GRINJ-017,19 years,19,Male,M,133,2241042,5.9
+,Non-Injury: All other diseases (Residual),GR113-111,19 years,19,Male,M,120,2241042,5.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,1 year,1,Male,M,117,1887461,6.2
+,Motor Vehicle Traffic,GRINJ-008,16 years,16,Female,F,114,2178189,5.2
+,Non-Injury: Diseases of Heart,GR113 055-068,< 1 year,0,Female,F,113,1784146,6.3
+,Firearm,GRINJ-006,19 years,19,Female,F,112,2143573,5.2
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,< 1 year,0,Female,F,112,1784146,6.3
+,Poisoning,GRINJ-015,17 years,17,Female,F,110,2146325,5.1
+,Non-Injury: All other diseases (Residual),GR113-111,18 years,18,Male,M,109,2228634,4.9
+,Drowning,GRINJ-002,2 years,2,Male,M,108,1847159,5.8
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,1 year,1,Female,F,103,1806761,5.7
+,Firearm,GRINJ-006,18 years,18,Female,F,102,2128851,4.8
+,Motor Vehicle Traffic,GRINJ-008,14 years,14,Male,M,102,2205676,4.6
+,Firearm,GRINJ-006,13 years,13,Male,M,100,2161119,4.6
+,Non-Injury: All other diseases (Residual),GR113-111,1 year,1,Male,M,99,1887461,5.2
+,Non-Injury: Other diseases of respiratory system,GR113-089,< 1 year,0,Male,M,97,1864508,5.2
+,Suffocation,GRINJ-017,16 years,16,Male,M,96,2287751,4.2
+,Drowning,GRINJ-002,1 year,1,Male,M,95,1887461,5.0
+,Suffocation,GRINJ-017,18 years,18,Male,M,94,2228634,4.2
+,Non-Injury: All other diseases (Residual),GR113-111,17 years,17,Male,M,90,2248723,4.0
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,1 year,1,Male,M,89,1887461,4.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,17 years,17,Male,M,88,2248723,3.9
+,Suffocation,GRINJ-017,17 years,17,Male,M,86,2248723,3.8
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,< 1 year,0,Male,M,84,1864508,4.5
+,Firearm,GRINJ-006,17 years,17,Female,F,83,2146325,3.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,19 years,19,Male,M,82,2241042,3.7
+,Poisoning,GRINJ-015,16 years,16,Female,F,82,2178189,3.8
+,Unspecified Injury,GRINJ-020,< 1 year,0,Male,M,78,1864508,4.2
+,Motor Vehicle Traffic,GRINJ-008,13 years,13,Male,M,76,2161119,3.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,18 years,18,Male,M,75,2228634,3.4
+,Non-Injury: Septicemia,GR113-010,< 1 year,0,Male,M,75,1864508,4.0
+,Firearm,GRINJ-006,16 years,16,Female,F,74,2178189,3.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,16 years,16,Male,M,74,2287751,3.2
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,15 years,15,Male,M,72,2290485,3.1
+,Motor Vehicle Traffic,GRINJ-008,15 years,15,Female,F,71,2181907,3.3
+,Non-Injury: All other diseases (Residual),GR113-111,15 years,15,Male,M,71,2290485,3.1
+,Non-Injury: Intestinal infections,GR113 001-003,< 1 year,0,Female,F,71,1784146,4.0
+,Non-Injury: All other diseases (Residual),GR113-111,19 years,19,Female,F,70,2143573,3.3
+,Non-Injury: All other diseases (Residual),GR113-111,13 years,13,Male,M,70,2161119,3.2
+,Non-Injury: Septicemia,GR113-010,< 1 year,0,Female,F,69,1784146,3.9
+,Non-Injury: All other diseases (Residual),GR113-111,17 years,17,Female,F,67,2146325,3.1
+,Non-Injury: Intestinal infections,GR113 001-003,< 1 year,0,Male,M,67,1864508,3.6
+,Poisoning,GRINJ-015,15 years,15,Male,M,67,2290485,2.9
+,Non-Injury: All other diseases (Residual),GR113-111,16 years,16,Male,M,65,2287751,2.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,15 years,15,Female,F,63,2181907,2.9
+,Drowning,GRINJ-002,19 years,19,Male,M,62,2241042,2.8
+,Non-Injury: All other diseases (Residual),GR113-111,1 year,1,Female,F,62,1806761,3.4
+,Non-Injury: All other diseases (Residual),GR113-111,15 years,15,Female,F,62,2181907,2.8
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,< 1 year,0,Female,F,62,1784146,3.5
+,Poisoning,GRINJ-015,15 years,15,Female,F,62,2181907,2.8
+,Drowning,GRINJ-002,3 years,3,Male,M,61,1915584,3.2
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,16 years,16,Female,F,61,2178189,2.8
+,Non-Injury: Other diseases of respiratory system,GR113-089,< 1 year,0,Female,F,61,1784146,3.4
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,1 year,1,Female,F,60,1806761,3.3
+,Drowning,GRINJ-002,18 years,18,Male,M,59,2228634,2.6
+,Non-Injury: All other diseases (Residual),GR113-111,9 years,9,Male,M,58,2098259,2.8
+,Non-Injury: All other diseases (Residual),GR113-111,14 years,14,Male,M,58,2205676,2.6
+,Suffocation,GRINJ-017,14 years,14,Female,F,58,2102597,2.8
+,Suffocation,GRINJ-017,15 years,15,Male,M,58,2290485,2.5
+,Unspecified Injury,GRINJ-020,< 1 year,0,Female,F,58,1784146,3.3
+,Non-Injury: All other diseases (Residual),GR113-111,18 years,18,Female,F,57,2128851,2.7
+,Suffocation,GRINJ-017,15 years,15,Female,F,57,2181907,2.6
+,Non-Injury: All other diseases (Residual),GR113-111,16 years,16,Female,F,56,2178189,2.6
+,Drowning,GRINJ-002,1 year,1,Female,F,55,1806761,3.0
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,1 year,1,Male,M,55,1887461,2.9
+,Poisoning,GRINJ-015,1 year,1,Male,M,55,1887461,2.9
+,Firearm,GRINJ-006,15 years,15,Female,F,54,2181907,2.5
+,Motor Vehicle Traffic,GRINJ-008,2 years,2,Male,M,54,1847159,2.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,19 years,19,Female,F,54,2143573,2.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,13 years,13,Male,M,54,2161119,2.5
+,Suffocation,GRINJ-017,18 years,18,Female,F,54,2128851,2.5
+,Drowning,GRINJ-002,4 years,4,Male,M,53,1944687,2.7
+,Non-Injury: All other diseases (Residual),GR113-111,3 years,3,Male,M,53,1915584,2.8
+,Poisoning,GRINJ-015,1 year,1,Female,F,53,1806761,2.9
+,Motor Vehicle Traffic,GRINJ-008,12 years,12,Male,M,52,2120895,2.5
+,Non-Injury: All other diseases (Residual),GR113-111,11 years,11,Male,M,51,2093367,2.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,2 years,2,Male,M,51,1847159,2.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,12 years,12,Male,M,51,2120895,2.4
+,Suffocation,GRINJ-017,14 years,14,Male,M,51,2205676,2.3
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,5 years,5,Female,F,50,1904677,2.6
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,13 years,13,Female,F,50,2057895,2.4
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,2 years,2,Male,M,50,1847159,2.7
+,Motor Vehicle Traffic,GRINJ-008,1 year,1,Male,M,49,1887461,2.6
+,Non-Injury: All other diseases (Residual),GR113-111,14 years,14,Female,F,49,2102597,2.3
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,14 years,14,Female,F,49,2102597,2.3
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,1 year,1,Female,F,49,1806761,2.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,12 years,12,Female,F,48,2013129,2.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,8 years,8,Male,M,48,2099576,2.3
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,18 years,18,Female,F,48,2128851,2.3
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,14 years,14,Male,M,48,2205676,2.2
+,Firearm,GRINJ-006,12 years,12,Male,M,47,2120895,2.2
+,Non-Injury: All other diseases (Residual),GR113-111,2 years,2,Female,F,47,1764724,2.7
+,Non-Injury: All other diseases (Residual),GR113-111,2 years,2,Male,M,47,1847159,2.5
+,Non-Injury: All other diseases (Residual),GR113-111,5 years,5,Male,M,47,1991400,2.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,8 years,8,Female,F,47,2010922,2.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,19 years,19,Male,M,47,2241042,2.1
+,Suffocation,GRINJ-017,13 years,13,Female,F,47,2057895,2.3
+,Suffocation,GRINJ-017,16 years,16,Female,F,47,2178189,2.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,3 years,3,Male,M,46,1915584,2.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,2 years,2,Male,M,46,1847159,2.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,17 years,17,Female,F,46,2146325,2.1
+,Firearm,GRINJ-006,14 years,14,Female,F,45,2102597,2.1
+,Motor Vehicle Traffic,GRINJ-008,< 1 year,0,Male,M,45,1864508,2.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,11 years,11,Female,F,45,1996442,2.3
+,Drowning,GRINJ-002,2 years,2,Female,F,44,1764724,2.5
+,Non-Injury: All other diseases (Residual),GR113-111,10 years,10,Male,M,44,2086861,2.1
+,Non-Injury: All other diseases (Residual),GR113-111,12 years,12,Male,M,44,2120895,2.1
+,Non-Injury: Diseases of Heart,GR113 055-068,19 years,19,Male,M,44,2241042,2.0
+,Suffocation,GRINJ-017,17 years,17,Female,F,44,2146325,2.1
+,Fall,GRINJ-003,19 years,19,Male,M,43,2241042,1.9
+,Motor Vehicle Traffic,GRINJ-008,1 year,1,Female,F,43,1806761,2.4
+,Suffocation,GRINJ-017,19 years,19,Female,F,43,2143573,2.0
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,< 1 year,0,Female,F,42,1784146,2.4
+,Suffocation,GRINJ-017,1 year,1,Male,M,42,1887461,2.2
+,Drowning,GRINJ-002,3 years,3,Female,F,41,1832223,2.2
+,Non-Injury: All other diseases (Residual),GR113-111,7 years,7,Female,F,41,1992913,2.1
+,Non-Injury: All other diseases (Residual),GR113-111,10 years,10,Female,F,41,1996583,2.1
+,Non-Injury: All other diseases (Residual),GR113-111,7 years,7,Male,M,41,2082645,2.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,11 years,11,Male,M,41,2093367,2.0
+,Drowning,GRINJ-002,5 years,5,Male,M,40,1991400,2.0
+,Drowning,GRINJ-002,17 years,17,Male,M,40,2248723,1.8
+,Non-Injury: All other diseases (Residual),GR113-111,3 years,3,Female,F,40,1832223,2.2
+,Non-Injury: All other diseases (Residual),GR113-111,4 years,4,Female,F,40,1863907,2.1
+,Non-Injury: Diseases of Heart,GR113 055-068,17 years,17,Male,M,40,2248723,1.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,3 years,3,Male,M,40,1915584,2.1
+,Poisoning,GRINJ-015,< 1 year,0,Male,M,40,1864508,2.1
+,Motor Vehicle Traffic,GRINJ-008,14 years,14,Female,F,39,2102597,1.9
+,Non-Injury: All other diseases (Residual),GR113-111,8 years,8,Female,F,39,2010922,1.9
+,Non-Injury: All other diseases (Residual),GR113-111,13 years,13,Female,F,39,2057895,1.9
+,Non-Injury: Diseases of Heart,GR113 055-068,18 years,18,Male,M,39,2228634,1.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,4 years,4,Male,M,39,1944687,2.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,6 years,6,Male,M,39,2032840,1.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,10 years,10,Male,M,39,2086861,1.9
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,< 1 year,0,Male,M,38,1864508,2.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,4 years,4,Female,F,38,1863907,2.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,10 years,10,Female,F,38,1996583,1.9
+,Poisoning,GRINJ-015,< 1 year,0,Female,F,38,1784146,2.1
+,Poisoning,GRINJ-015,14 years,14,Male,M,38,2205676,1.7
+,Motor Vehicle Traffic,GRINJ-008,9 years,9,Male,M,37,2098259,1.8
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,1 year,1,Male,M,37,1887461,2.0
+,Suffocation,GRINJ-017,1 year,1,Female,F,37,1806761,2.0
+,Motor Vehicle Traffic,GRINJ-008,3 years,3,Female,F,36,1832223,2.0
+,Non-Injury: All other diseases (Residual),GR113-111,6 years,6,Male,M,36,2032840,1.8
+,Non-Injury: Diseases of Heart,GR113 055-068,19 years,19,Female,F,36,2143573,1.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,9 years,9,Male,M,36,2098259,1.7
+,Drowning,GRINJ-002,16 years,16,Male,M,35,2287751,1.5
+,Motor Vehicle Traffic,GRINJ-008,4 years,4,Male,M,35,1944687,1.8
+,Motor Vehicle Traffic,GRINJ-008,13 years,13,Female,F,35,2057895,1.7
+,Non-Injury: All other diseases (Residual),GR113-111,4 years,4,Male,M,35,1944687,1.8
+,Non-Injury: Diseases of Heart,GR113 055-068,1 year,1,Male,M,35,1887461,1.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,5 years,5,Male,M,35,1991400,1.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,9 years,9,Female,F,35,1999368,1.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,7 years,7,Male,M,35,2082645,1.7
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,18 years,18,Male,M,35,2228634,1.6
+,Motor Vehicle Traffic,GRINJ-008,11 years,11,Male,M,34,2093367,1.6
+,Non-Injury: All other diseases (Residual),GR113-111,5 years,5,Female,F,34,1904677,1.8
+,Non-Injury: All other diseases (Residual),GR113-111,6 years,6,Female,F,34,1940157,1.8
+,Non-Injury: All other diseases (Residual),GR113-111,11 years,11,Female,F,34,1996442,1.7
+,Suffocation,GRINJ-017,13 years,13,Male,M,34,2161119,1.6
+,Motor Vehicle Traffic,GRINJ-008,3 years,3,Male,M,33,1915584,1.7
+,Poisoning,GRINJ-015,14 years,14,Female,F,33,2102597,1.6
+,Motor Vehicle Traffic,GRINJ-008,< 1 year,0,Female,F,32,1784146,1.8
+,Motor Vehicle Traffic,GRINJ-008,5 years,5,Male,M,32,1991400,1.6
+,Motor Vehicle Traffic,GRINJ-008,7 years,7,Male,M,32,2082645,1.5
+,Non-Injury: All other diseases (Residual),GR113-111,9 years,9,Female,F,32,1999368,1.6
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,2 years,2,Female,F,32,1764724,1.8
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,3 years,3,Female,F,32,1832223,1.7
+,Motor Vehicle Traffic,GRINJ-008,10 years,10,Male,M,31,2086861,1.5
+,Non-Injury: Diseases of Heart,GR113 055-068,1 year,1,Female,F,31,1806761,1.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,2 years,2,Female,F,31,1764724,1.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,3 years,3,Female,F,31,1832223,1.7
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,6 years,6,Female,F,31,1940157,1.6
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,7 years,7,Female,F,31,1992913,1.6
+,Non-Injury: Meningitis,GR113-050,< 1 year,0,Male,M,31,1864508,1.7
+,Suffocation,GRINJ-017,2 years,2,Male,M,31,1847159,1.7
+,Suffocation,GRINJ-017,12 years,12,Female,F,31,2013129,1.5
+,Firearm,GRINJ-006,3 years,3,Male,M,30,1915584,1.6
+,Motor Vehicle Traffic,GRINJ-008,7 years,7,Female,F,30,1992913,1.5
+,Motor Vehicle Traffic,GRINJ-008,11 years,11,Female,F,30,1996442,1.5
+,Motor Vehicle Traffic,GRINJ-008,12 years,12,Female,F,30,2013129,1.5
+,Non-Injury: All other diseases (Residual),GR113-111,8 years,8,Male,M,30,2099576,1.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,18 years,18,Male,M,30,2228634,1.3
+,Poisoning,GRINJ-015,2 years,2,Male,M,30,1847159,1.6
+,Drowning,GRINJ-002,6 years,6,Male,M,29,2032840,1.4
+,Fall,GRINJ-003,18 years,18,Male,M,29,2228634,1.3
+,Firearm,GRINJ-006,13 years,13,Female,F,29,2057895,1.4
+,Motor Vehicle Traffic,GRINJ-008,8 years,8,Male,M,29,2099576,1.4
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,< 1 year,0,Male,M,29,1864508,1.6
+,"Other specified, classifiable Injury",GRINJ-018,< 1 year,0,Female,F,29,1784146,1.6
+,"Other specified, classifiable Injury",GRINJ-018,< 1 year,0,Male,M,29,1864508,1.6
+,Drowning,GRINJ-002,< 1 year,0,Male,M,28,1864508,1.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,6 years,6,Female,F,28,1940157,1.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,5 years,5,Male,M,28,1991400,1.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,7 years,7,Male,M,28,2082645,1.3
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,16 years,16,Male,M,28,2287751,1.2
+,Non-Injury: Diseases of Heart,GR113 055-068,18 years,18,Female,F,28,2128851,1.3
+,Non-Injury: Meningitis,GR113-050,< 1 year,0,Female,F,28,1784146,1.6
+,Motor Vehicle Traffic,GRINJ-008,2 years,2,Female,F,27,1764724,1.5
+,Motor Vehicle Traffic,GRINJ-008,6 years,6,Female,F,27,1940157,1.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,4 years,4,Male,M,27,1944687,1.4
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,2 years,2,Male,M,27,1847159,1.5
+,Firearm,GRINJ-006,10 years,10,Male,M,26,2086861,1.2
+,Motor Vehicle Traffic,GRINJ-008,10 years,10,Female,F,26,1996583,1.3
+,Non-Injury: All other diseases (Residual),GR113-111,12 years,12,Female,F,26,2013129,1.3
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,12 years,12,Male,M,26,2120895,1.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,14 years,14,Male,M,26,2205676,1.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,19 years,19,Male,M,26,2241042,1.2
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,19 years,19,Female,F,26,2143573,1.2
+,Drowning,GRINJ-002,15 years,15,Male,M,25,2290485,1.1
+,Unspecified Injury,GRINJ-020,1 year,1,Male,M,25,1887461,1.3
+,Cut/Pierce,GRINJ-001,19 years,19,Male,M,24,2241042,1.1
+,Drowning,GRINJ-002,< 1 year,0,Female,F,24,1784146,1.3
+,Fall,GRINJ-003,17 years,17,Male,M,24,2248723,1.1
+,Motor Vehicle Traffic,GRINJ-008,4 years,4,Female,F,24,1863907,1.3
+,Motor Vehicle Traffic,GRINJ-008,6 years,6,Male,M,24,2032840,1.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,8 years,8,Male,M,24,2099576,1.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,18 years,18,Female,F,24,2128851,1.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,17 years,17,Male,M,24,2248723,1.1
+,Non-Injury: Other diseases of respiratory system,GR113-089,1 year,1,Male,M,24,1887461,1.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,18 years,18,Female,F,24,2128851,1.1
+,Other land transport,GRINJ-011,17 years,17,Male,M,24,2248723,1.1
+,Cut/Pierce,GRINJ-001,18 years,18,Male,M,23,2228634,1.0
+,Firearm,GRINJ-006,11 years,11,Male,M,23,2093367,1.1
+,Motor Vehicle Traffic,GRINJ-008,8 years,8,Female,F,23,2010922,1.1
+,Non-Injury: Diseases of Heart,GR113 055-068,15 years,15,Male,M,23,2290485,1.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,1 year,1,Female,F,23,1806761,1.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,2 years,2,Female,F,23,1764724,1.3
+,Poisoning,GRINJ-015,2 years,2,Female,F,23,1764724,1.3
+,Suffocation,GRINJ-017,12 years,12,Male,M,23,2120895,1.1
+,Drowning,GRINJ-002,4 years,4,Female,F,22,1863907,1.2
+,Motor Vehicle Traffic,GRINJ-008,9 years,9,Female,F,22,1999368,1.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,16 years,16,Female,F,22,2178189,1.0
+,Motor Vehicle Traffic,GRINJ-008,5 years,5,Female,F,21,1904677,1.1
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,1 year,1,Male,M,21,1887461,1.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,10 years,10,Female,F,21,1996583,1.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,10 years,10,Male,M,21,2086861,1.0
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,14 years,14,Female,F,21,2102597,1.0
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,15 years,15,Male,M,21,2290485,0.9
+,Non-Injury: Diseases of Heart,GR113 055-068,16 years,16,Female,F,21,2178189,1.0
+,Non-Injury: Diseases of Heart,GR113 055-068,16 years,16,Male,M,21,2287751,0.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,1 year,1,Male,M,21,1887461,1.1
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,2 years,2,Female,F,21,1764724,1.2
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,3 years,3,Male,M,21,1915584,1.1
+,Drowning,GRINJ-002,13 years,13,Male,M,20,2161119,0.9
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,9 years,9,Male,M,20,2098259,1.0
+,Non-Injury: Diseases of Heart,GR113 055-068,17 years,17,Female,F,20,2146325,0.9
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,< 1 year,0,Male,M,20,1864508,1.1
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,17 years,17,Male,M,20,2248723,0.9
+,Drowning,GRINJ-002,14 years,14,Male,M,19,2205676,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,13 years,13,Female,F,19,2057895,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,1 year,1,Female,F,19,1806761,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,16 years,16,Female,F,19,2178189,Unreliable
+,Other land transport,GRINJ-011,14 years,14,Male,M,19,2205676,Unreliable
+,Suffocation,GRINJ-017,11 years,11,Male,M,19,2093367,Unreliable
+,Firearm,GRINJ-006,2 years,2,Male,M,18,1847159,Unreliable
+,Firearm,GRINJ-006,7 years,7,Male,M,18,2082645,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,4 years,4,Female,F,18,1863907,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,8 years,8,Female,F,18,2010922,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,2 years,2,Male,M,18,1847159,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,2 years,2,Male,M,18,1847159,Unreliable
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,< 1 year,0,Female,F,18,1784146,Unreliable
+,Non-Injury: Other diseases of respiratory system,GR113-089,2 years,2,Female,F,18,1764724,Unreliable
+,Other land transport,GRINJ-011,18 years,18,Male,M,18,2228634,Unreliable
+,Other land transport,GRINJ-011,19 years,19,Male,M,18,2241042,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,18 years,18,Male,M,18,2228634,Unreliable
+,Drowning,GRINJ-002,5 years,5,Female,F,17,1904677,Unreliable
+,Fall,GRINJ-003,16 years,16,Male,M,17,2287751,Unreliable
+,Firearm,GRINJ-006,12 years,12,Female,F,17,2013129,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,7 years,7,Female,F,17,1992913,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,11 years,11,Female,F,17,1996442,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,13 years,13,Male,M,17,2161119,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,19 years,19,Female,F,17,2143573,Unreliable
+,Non-Injury: Diabetes mellitus,GR113-046,19 years,19,Male,M,17,2241042,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,2 years,2,Female,F,17,1764724,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,4 years,4,Female,F,17,1863907,Unreliable
+,Non-Injury: Other diseases of respiratory system,GR113-089,1 year,1,Female,F,17,1806761,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,3 years,3,Male,M,17,1915584,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,19 years,19,Male,M,17,2241042,Unreliable
+,Suffocation,GRINJ-017,11 years,11,Female,F,17,1996442,Unreliable
+,Unspecified Injury,GRINJ-020,2 years,2,Male,M,17,1847159,Unreliable
+,Unspecified Injury,GRINJ-020,3 years,3,Male,M,17,1915584,Unreliable
+,Drowning,GRINJ-002,8 years,8,Male,M,16,2099576,Unreliable
+,Fire/Flame,GRINJ-004,2 years,2,Male,M,16,1847159,Unreliable
+,Fire/Flame,GRINJ-004,3 years,3,Female,F,16,1832223,Unreliable
+,Fire/Flame,GRINJ-004,4 years,4,Male,M,16,1944687,Unreliable
+,Firearm,GRINJ-006,4 years,4,Male,M,16,1944687,Unreliable
+,Firearm,GRINJ-006,6 years,6,Male,M,16,2032840,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,5 years,5,Female,F,16,1904677,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,9 years,9,Female,F,16,1999368,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,17 years,17,Female,F,16,2146325,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,6 years,6,Female,F,16,1940157,Unreliable
+,Poisoning,GRINJ-015,3 years,3,Male,M,16,1915584,Unreliable
+,Fire/Flame,GRINJ-004,1 year,1,Female,F,15,1806761,Unreliable
+,Firearm,GRINJ-006,5 years,5,Male,M,15,1991400,Unreliable
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,1 year,1,Female,F,15,1806761,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,6 years,6,Male,M,15,2032840,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,15 years,15,Female,F,15,2181907,Unreliable
+,Non-Injury: Diabetes mellitus,GR113-046,18 years,18,Female,F,15,2128851,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,13 years,13,Male,M,15,2161119,Unreliable
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,< 1 year,0,Female,F,15,1784146,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,3 years,3,Female,F,15,1832223,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,5 years,5,Male,M,15,1991400,Unreliable
+,Non-Injury: Septicemia,GR113-010,1 year,1,Female,F,15,1806761,Unreliable
+,Other land transport,GRINJ-011,11 years,11,Male,M,15,2093367,Unreliable
+,Other land transport,GRINJ-011,13 years,13,Male,M,15,2161119,Unreliable
+,Other land transport,GRINJ-011,16 years,16,Male,M,15,2287751,Unreliable
+,Unspecified Injury,GRINJ-020,2 years,2,Female,F,15,1764724,Unreliable
+,Cut/Pierce,GRINJ-001,16 years,16,Male,M,14,2287751,Unreliable
+,Fire/Flame,GRINJ-004,7 years,7,Male,M,14,2082645,Unreliable
+,Firearm,GRINJ-006,8 years,8,Male,M,14,2099576,Unreliable
+,Firearm,GRINJ-006,11 years,11,Female,F,14,1996442,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,16 years,16,Male,M,14,2287751,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,18 years,18,Male,M,14,2228634,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,19 years,19,Male,M,14,2241042,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,11 years,11,Male,M,14,2093367,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,2 years,2,Female,F,14,1764724,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,5 years,5,Female,F,14,1904677,Unreliable
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,< 1 year,0,Male,M,14,1864508,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,3 years,3,Male,M,14,1915584,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,4 years,4,Male,M,14,1944687,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,6 years,6,Male,M,14,2032840,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,18 years,18,Male,M,14,2228634,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,3 years,3,Female,F,14,1832223,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,4 years,4,Female,F,14,1863907,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,1 year,1,Male,M,14,1887461,Unreliable
+,Unspecified Injury,GRINJ-020,1 year,1,Female,F,14,1806761,Unreliable
+,Drowning,GRINJ-002,12 years,12,Male,M,13,2120895,Unreliable
+,Firearm,GRINJ-006,2 years,2,Female,F,13,1764724,Unreliable
+,Firearm,GRINJ-006,4 years,4,Female,F,13,1863907,Unreliable
+,Firearm,GRINJ-006,9 years,9,Male,M,13,2098259,Unreliable
+,Natural/Environmental,GRINJ-013,1 year,1,Female,F,13,1806761,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,3 years,3,Male,M,13,1915584,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,12 years,12,Female,F,13,2013129,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,14 years,14,Female,F,13,2102597,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,15 years,15,Female,F,13,2181907,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,4 years,4,Male,M,13,1944687,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,7 years,7,Male,M,13,2082645,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,16 years,16,Male,M,13,2287751,Unreliable
+,Poisoning,GRINJ-015,13 years,13,Male,M,13,2161119,Unreliable
+,Suffocation,GRINJ-017,3 years,3,Male,M,13,1915584,Unreliable
+,Suffocation,GRINJ-017,10 years,10,Male,M,13,2086861,Unreliable
+,Cut/Pierce,GRINJ-001,17 years,17,Male,M,12,2248723,Unreliable
+,Fire/Flame,GRINJ-004,2 years,2,Female,F,12,1764724,Unreliable
+,Fire/Flame,GRINJ-004,3 years,3,Male,M,12,1915584,Unreliable
+,Fire/Flame,GRINJ-004,5 years,5,Female,F,12,1904677,Unreliable
+,Fire/Flame,GRINJ-004,13 years,13,Male,M,12,2161119,Unreliable
+,Firearm,GRINJ-006,9 years,9,Female,F,12,1999368,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,14 years,14,Male,M,12,2205676,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,9 years,9,Female,F,12,1999368,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,10 years,10,Male,M,12,2086861,Unreliable
+,"Non-Injury: Other complications of pregnancy, childbirth and the puerperium",GR113-107,19 years,19,Female,F,12,2143573,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,13 years,13,Male,M,12,2161119,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,17 years,17,Female,F,12,2146325,Unreliable
+,Other land transport,GRINJ-011,19 years,19,Female,F,12,2143573,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,< 1 year,0,Male,M,12,1864508,Unreliable
+,Poisoning,GRINJ-015,13 years,13,Female,F,12,2057895,Unreliable
+,Unspecified Injury,GRINJ-020,5 years,5,Male,M,12,1991400,Unreliable
+,Unspecified Injury,GRINJ-020,17 years,17,Male,M,12,2248723,Unreliable
+,Fall,GRINJ-003,15 years,15,Male,M,11,2290485,Unreliable
+,Fire/Flame,GRINJ-004,1 year,1,Male,M,11,1887461,Unreliable
+,Fire/Flame,GRINJ-004,14 years,14,Female,F,11,2102597,Unreliable
+,Firearm,GRINJ-006,5 years,5,Female,F,11,1904677,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,11 years,11,Male,M,11,2093367,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,14 years,14,Female,F,11,2102597,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,16 years,16,Male,M,11,2287751,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,9 years,9,Male,M,11,2098259,Unreliable
+,Non-Injury: Diabetes mellitus,GR113-046,18 years,18,Male,M,11,2228634,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,12 years,12,Male,M,11,2120895,Unreliable
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,< 1 year,0,Female,F,11,1784146,Unreliable
+,Non-Injury: Other acute lower respiratory infections,GR113 079,< 1 year,0,Female,F,11,1784146,Unreliable
+,Non-Injury: Other acute lower respiratory infections,GR113 079,< 1 year,0,Male,M,11,1864508,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,4 years,4,Male,M,11,1944687,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,6 years,6,Male,M,11,2032840,Unreliable
+,Other land transport,GRINJ-011,15 years,15,Male,M,11,2290485,Unreliable
+,Poisoning,GRINJ-015,3 years,3,Female,F,11,1832223,Unreliable
+,Poisoning,GRINJ-015,12 years,12,Female,F,11,2013129,Unreliable
+,Drowning,GRINJ-002,7 years,7,Male,M,10,2082645,Unreliable
+,Fall,GRINJ-003,14 years,14,Male,M,10,2205676,Unreliable
+,Fire/Flame,GRINJ-004,6 years,6,Male,M,10,2032840,Unreliable
+,Firearm,GRINJ-006,3 years,3,Female,F,10,1832223,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,1 year,1,Female,F,10,1806761,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,19 years,19,Female,F,10,2143573,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,12 years,12,Male,M,10,2120895,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,17 years,17,Male,M,10,2248723,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,12 years,12,Female,F,10,2013129,Unreliable
+,Non-Injury: Diabetes mellitus,GR113-046,14 years,14,Female,F,10,2102597,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,7 years,7,Male,M,10,2082645,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,10 years,10,Male,M,10,2086861,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,14 years,14,Female,F,10,2102597,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,17 years,17,Female,F,10,2146325,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,3 years,3,Female,F,10,1832223,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,14 years,14,Male,M,10,2205676,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,15 years,15,Female,F,10,2181907,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,15 years,15,Male,M,10,2290485,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,16 years,16,Male,M,10,2287751,Unreliable
+,Non-Injury: Septicemia,GR113-010,4 years,4,Male,M,10,1944687,Unreliable
+,Non-Injury: Septicemia,GR113-010,5 years,5,Male,M,10,1991400,Unreliable
+,Other land transport,GRINJ-011,12 years,12,Male,M,10,2120895,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,15 years,15,Male,M,10,2290485,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,16 years,16,Male,M,10,2287751,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,18 years,18,Male,M,10,2228634,Unreliable
+,Suffocation,GRINJ-017,2 years,2,Female,F,10,1764724,Unreliable
+,Suffocation,GRINJ-017,4 years,4,Male,M,10,1944687,Unreliable
+---,,,,,,,,,
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race",,,,,,,,,
+Query Parameters:,,,,,,,,,
+Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years; 10 years; 11 years;,,,,,,,,,
+12 years; 13 years; 14 years; 15 years; 16 years; 17 years; 18 years; 19 years,,,,,,,,,
+Year/Month: 2023,,,,,,,,,
+Group By: Injury Mechanism & All Other Leading Causes; Single-Year Ages; Sex,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,
+Show Zero Values: False,,,,,,,,,
+Show Suppressed: False,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,
+---,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information.,,,,,,,,,
+---,,,,,,,,,
+"Query Date: Apr 26, 2025 7:10:39 PM",,,,,,,,,
+---,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,,,
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,",,,,,,,,,
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 26, 2025 7:10:39 PM",,,,,,,,,
+---,,,,,,,,,
+Messages:,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,
+2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows.,,,,,,,,,
+3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,
+---,,,,,,,,,
+Caveats:,,,,,,,,,
+1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality.,,,,,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable.,,,,,,,,,
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated.,,,,,,,,,
+"4. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023",,,,,,,,,
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced",,,,,,,,,
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend",,,,,,,,,
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data",,,,,,,,,
+from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1,,,,,,,,,
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is",,,,,,,,,
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The",,,,,,,,,
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic",,,,,,,,,
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are",,,,,,,,,
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of",,,,,,,,,
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,",,,,,,,,,
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,,,
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year",,,,,,,,,
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010",,,,,,,,,
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the",,,,,,,,,
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on",,,,,,,,,
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data.",,,,,,,,,
+5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age,,,,,,,,,
+Group.,,,,,,,,,
+"6. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,",,,,,,,,,
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,",,,,,,,,,
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former",,,,,,,,,
+counties are not available for 2022 and later years. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022.,,,,,,,,,
+"7. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death",,,,,,,,,
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,",,,,,,,,,
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As",,,,,,,,,
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400",,,,,,,,,
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per",,,,,,,,,
+"100,000 population. These deaths will not be updated on the final mortality datasets.",,,,,,,,,
