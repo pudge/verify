@@ -1,0 +1,336 @@
+Underlying Cause of Death, 2023, age 0-19, Injury Mechanism: by Intent, Race, Sex
+Notes,Injury Mechanism & All Other Leading Causes,Injury Mechanism & All Other Leading Causes Code,Injury Intent,Injury Intent Code,Single Race 6,Single Race 6 Code,Sex,Sex Code,Deaths,Population,Crude Rate
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,1642,6401519,25.7
+,Firearm,GRINJ-006,Homicide,3,Black or African American,2054-5,Male,M,1637,6401519,25.6
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,1347,6224035,21.6
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Male,M,24,141294,17.0
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,White,2106-3,Male,M,3357,29519218,11.4
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,More than one race,M,Male,M,274,2473608,11.1
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,671,6401519,10.5
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,White,2106-3,Female,F,2616,28069688,9.3
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,More than one race,M,Female,F,212,2370648,8.9
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Asian,A,Male,M,218,2477040,8.8
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,530,6224035,8.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,526,6401519,8.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,498,6224035,8.0
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,Black or African American,2054-5,Male,M,502,6401519,7.8
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Male,M,56,715993,7.8
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,American Indian or Alaska Native,1002-5,Male,M,55,715993,7.7
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Female,F,51,687498,7.4
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Asian,A,Female,F,167,2357677,7.1
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,White,2106-3,Male,M,2016,29519218,6.8
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,White,2106-3,Male,M,1912,29519218,6.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,White,2106-3,Female,F,1652,28069688,5.9
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,354,6401519,5.5
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,American Indian or Alaska Native,1002-5,Female,F,38,687498,5.5
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Male,M,34,715993,4.7
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,More than one race,M,Male,M,112,2473608,4.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Female,F,31,687498,4.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,More than one race,M,Female,F,103,2370648,4.3
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,Black or African American,2054-5,Female,F,267,6224035,4.3
+,Poisoning,GRINJ-015,Unintentional,1,American Indian or Alaska Native,1002-5,Male,M,30,715993,4.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,More than one race,M,Male,M,103,2473608,4.2
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Female,F,28,687498,4.1
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,246,6224035,4.0
+,Firearm,GRINJ-006,Homicide,3,Black or African American,2054-5,Female,F,236,6224035,3.8
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Asian,A,Male,M,92,2477040,3.7
+,Suffocation,GRINJ-017,Unintentional,1,Black or African American,2054-5,Male,M,237,6401519,3.7
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Asian,A,Female,F,85,2357677,3.6
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,More than one race,M,Female,F,85,2370648,3.6
+,Suffocation,GRINJ-017,Unintentional,1,Black or African American,2054-5,Female,F,211,6224035,3.4
+,Firearm,GRINJ-006,Homicide,3,American Indian or Alaska Native,1002-5,Male,M,24,715993,3.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Male,M,24,715993,3.4
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,White,2106-3,Male,M,987,29519218,3.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,White,2106-3,Male,M,970,29519218,3.3
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Male,M,23,715993,3.2
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,White,2106-3,Female,F,892,28069688,3.2
+,Drowning,GRINJ-002,Unintentional,1,Black or African American,2054-5,Male,M,203,6401519,3.2
+,Firearm,GRINJ-006,Suicide,2,Black or African American,2054-5,Male,M,198,6401519,3.1
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,More than one race,M,Male,M,74,2473608,3.0
+,Poisoning,GRINJ-015,Unintentional,1,Black or African American,2054-5,Male,M,190,6401519,3.0
+,Poisoning,GRINJ-015,Unintentional,1,American Indian or Alaska Native,1002-5,Female,F,20,687498,2.9
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,Asian,A,Male,M,69,2477040,2.8
+,Firearm,GRINJ-006,Suicide,2,White,2106-3,Male,M,799,29519218,2.7
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,White,2106-3,Female,F,749,28069688,2.7
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,Asian,A,Female,F,62,2357677,2.6
+,Firearm,GRINJ-006,Homicide,3,White,2106-3,Male,M,758,29519218,2.6
+,Poisoning,GRINJ-015,Unintentional,1,White,2106-3,Male,M,754,29519218,2.6
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,White,2106-3,Male,M,752,29519218,2.5
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,White,2106-3,Female,F,701,28069688,2.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,154,6224035,2.5
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,More than one race,M,Male,M,58,2473608,2.3
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,141,6401519,2.2
+,Firearm,GRINJ-006,Homicide,3,More than one race,M,Male,M,54,2473608,2.2
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,White,2106-3,Female,F,588,28069688,2.1
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,133,6401519,2.1
+,Suffocation,GRINJ-017,Unintentional,1,More than one race,M,Male,M,50,2473608,2.0
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,More than one race,M,Female,F,46,2370648,1.9
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,Asian,A,Male,M,47,2477040,1.9
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,114,6224035,1.8
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,Asian,A,Male,M,45,2477040,1.8
+,Firearm,GRINJ-006,Suicide,2,More than one race,M,Male,M,44,2473608,1.8
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,More than one race,M,Female,F,42,2370648,1.8
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,Asian,A,Female,F,41,2357677,1.7
+,Poisoning,GRINJ-015,Unintentional,1,Black or African American,2054-5,Female,F,108,6224035,1.7
+,Suffocation,GRINJ-017,Unintentional,1,More than one race,M,Female,F,40,2370648,1.7
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,100,6401519,1.6
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,More than one race,M,Female,F,37,2370648,1.6
+,Poisoning,GRINJ-015,Unintentional,1,More than one race,M,Male,M,38,2473608,1.5
+,Suffocation,GRINJ-017,Unintentional,1,White,2106-3,Male,M,433,29519218,1.5
+,Drowning,GRINJ-002,Unintentional,1,White,2106-3,Male,M,430,29519218,1.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,More than one race,M,Male,M,36,2473608,1.5
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,93,6401519,1.5
+,Firearm,GRINJ-006,Suicide,2,Asian,A,Male,M,35,2477040,1.4
+,Suffocation,GRINJ-017,Suicide,2,White,2106-3,Male,M,415,29519218,1.4
+,Poisoning,GRINJ-015,Unintentional,1,White,2106-3,Female,F,391,28069688,1.4
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,80,6224035,1.3
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,73,6401519,1.1
+,Firearm,GRINJ-006,Homicide,3,Asian,A,Male,M,28,2477040,1.1
+,Suffocation,GRINJ-017,Unintentional,1,White,2106-3,Female,F,311,28069688,1.1
+,Drowning,GRINJ-002,Unintentional,1,More than one race,M,Male,M,27,2473608,1.1
+,Suffocation,GRINJ-017,Suicide,2,More than one race,M,Male,M,26,2473608,1.1
+,Drowning,GRINJ-002,Unintentional,1,Asian,A,Male,M,26,2477040,1.0
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,White,2106-3,Male,M,309,29519218,1.0
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,64,6224035,1.0
+,Drowning,GRINJ-002,Unintentional,1,Black or African American,2054-5,Female,F,63,6224035,1.0
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,Asian,A,Male,M,25,2477040,1.0
+,Suffocation,GRINJ-017,Suicide,2,Black or African American,2054-5,Female,F,61,6224035,1.0
+,Non-Injury: Other diseases of respiratory system,GR113-089,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,62,6401519,1.0
+,Suffocation,GRINJ-017,Suicide,2,Asian,A,Female,F,22,2357677,0.9
+,Poisoning,GRINJ-015,Unintentional,1,More than one race,M,Female,F,22,2370648,0.9
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,Asian,A,Female,F,21,2357677,0.9
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,More than one race,M,Male,M,22,2473608,0.9
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,Asian,A,Male,M,22,2477040,0.9
+,Suffocation,GRINJ-017,Suicide,2,White,2106-3,Female,F,249,28069688,0.9
+,Firearm,GRINJ-006,Homicide,3,More than one race,M,Female,F,21,2370648,0.9
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,White,2106-3,Male,M,254,29519218,0.9
+,Suffocation,GRINJ-017,Suicide,2,Black or African American,2054-5,Male,M,55,6401519,0.9
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,Asian,A,Female,F,20,2357677,0.8
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,52,6401519,0.8
+,Firearm,GRINJ-006,Unintentional,1,Black or African American,2054-5,Male,M,51,6401519,0.8
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,49,6224035,0.8
+,Unspecified Injury,GRINJ-020,Homicide,3,Black or African American,2054-5,Male,M,50,6401519,0.8
+,Unspecified Injury,GRINJ-020,Homicide,3,Black or African American,2054-5,Female,F,48,6224035,0.8
+,Firearm,GRINJ-006,Undetermined ,4,Black or African American,2054-5,Male,M,48,6401519,0.7
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,White,2106-3,Female,F,207,28069688,0.7
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,46,6401519,0.7
+,Non-Injury: Other diseases of respiratory system,GR113-089,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,44,6224035,0.7
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,White,2106-3,Female,F,190,28069688,0.7
+,Firearm,GRINJ-006,Homicide,3,White,2106-3,Female,F,178,28069688,0.6
+,Poisoning,GRINJ-015,Undetermined ,4,Black or African American,2054-5,Male,M,40,6401519,0.6
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,38,6224035,0.6
+,Drowning,GRINJ-002,Unintentional,1,White,2106-3,Female,F,171,28069688,0.6
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,37,6224035,0.6
+,Poisoning,GRINJ-015,Undetermined ,4,Black or African American,2054-5,Female,F,36,6224035,0.6
+,Fire/Flame,GRINJ-004,Unintentional,1,Black or African American,2054-5,Male,M,37,6401519,0.6
+,Non-Injury: Intestinal infections,GR113 001-003,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,35,6224035,0.6
+,Cut/Pierce,GRINJ-001,Homicide,3,Black or African American,2054-5,Male,M,35,6401519,0.5
+,Fire/Flame,GRINJ-004,Unintentional,1,Black or African American,2054-5,Female,F,33,6224035,0.5
+,Non-Injury: Intestinal infections,GR113 001-003,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,33,6401519,0.5
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,White,2106-3,Male,M,149,29519218,0.5
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,White,2106-3,Female,F,135,28069688,0.5
+,Non-Injury: Diabetes mellitus,GR113-046,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,28,6224035,0.4
+,Non-Injury: Other diseases of respiratory system,GR113-089,"Non-Injury, no intent classified",9,White,2106-3,Male,M,129,29519218,0.4
+,Other land transport,GRINJ-011,Unintentional,1,White,2106-3,Male,M,126,29519218,0.4
+,Firearm,GRINJ-006,Suicide,2,White,2106-3,Female,F,117,28069688,0.4
+,Non-Injury: Anemias,GR113-045,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,26,6401519,0.4
+,"Other specified, classifiable Injury",GRINJ-018,Homicide,3,Black or African American,2054-5,Male,M,25,6401519,0.4
+,Non-Injury: Other diseases of respiratory system,GR113-089,"Non-Injury, no intent classified",9,White,2106-3,Female,F,109,28069688,0.4
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,White,2106-3,Male,M,113,29519218,0.4
+,Poisoning,GRINJ-015,Homicide,3,Black or African American,2054-5,Male,M,24,6401519,0.4
+,"Other specified, classifiable Injury",GRINJ-018,Homicide,3,Black or African American,2054-5,Female,F,23,6224035,0.4
+,Poisoning,GRINJ-015,Suicide,2,White,2106-3,Female,F,103,28069688,0.4
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,"Non-Injury, no intent classified",9,White,2106-3,Female,F,100,28069688,0.4
+,Poisoning,GRINJ-015,Suicide,2,Black or African American,2054-5,Female,F,22,6224035,0.4
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,White,2106-3,Female,F,97,28069688,0.3
+,Non-Injury: Diabetes mellitus,GR113-046,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,22,6401519,0.3
+,Fire/Flame,GRINJ-004,Unintentional,1,White,2106-3,Male,M,99,29519218,0.3
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,"Non-Injury, no intent classified",9,White,2106-3,Male,M,95,29519218,0.3
+,Non-Injury: Anemias,GR113-045,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,20,6224035,0.3
+,Fire/Flame,GRINJ-004,Unintentional,1,White,2106-3,Female,F,82,28069688,0.3
+,Poisoning,GRINJ-015,Suicide,2,White,2106-3,Male,M,76,29519218,0.3
+,Unspecified Injury,GRINJ-020,Homicide,3,White,2106-3,Male,M,76,29519218,0.3
+,Firearm,GRINJ-006,Unintentional,1,White,2106-3,Male,M,63,29519218,0.2
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,"Non-Injury, no intent classified",9,White,2106-3,Male,M,61,29519218,0.2
+,Fall,GRINJ-003,Suicide,2,White,2106-3,Male,M,57,29519218,0.2
+,Other Pedestrian,GRINJ-010,Unintentional,1,White,2106-3,Male,M,55,29519218,0.2
+,Poisoning,GRINJ-015,Undetermined ,4,White,2106-3,Female,F,50,28069688,0.2
+,Fall,GRINJ-003,Unintentional,1,White,2106-3,Male,M,52,29519218,0.2
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,"Non-Injury, no intent classified",9,White,2106-3,Male,M,52,29519218,0.2
+,Cut/Pierce,GRINJ-001,Homicide,3,White,2106-3,Male,M,48,29519218,0.2
+,Non-Injury: Intestinal infections,GR113 001-003,"Non-Injury, no intent classified",9,White,2106-3,Male,M,48,29519218,0.2
+,Non-Injury: Intestinal infections,GR113 001-003,"Non-Injury, no intent classified",9,White,2106-3,Female,F,45,28069688,0.2
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,"Non-Injury, no intent classified",9,White,2106-3,Female,F,45,28069688,0.2
+,Other land transport,GRINJ-011,Unintentional,1,White,2106-3,Female,F,44,28069688,0.2
+,Struck by or against,GRINJ-016,Unintentional,1,White,2106-3,Male,M,46,29519218,0.2
+,Poisoning,GRINJ-015,Undetermined ,4,White,2106-3,Male,M,43,29519218,0.1
+,Non-Injury: Diabetes mellitus,GR113-046,"Non-Injury, no intent classified",9,White,2106-3,Male,M,42,29519218,0.1
+,Non-Injury: Meningitis,GR113-050,"Non-Injury, no intent classified",9,White,2106-3,Male,M,39,29519218,0.1
+,Unspecified Injury,GRINJ-020,Homicide,3,White,2106-3,Female,F,37,28069688,0.1
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,"Non-Injury, no intent classified",9,White,2106-3,Female,F,36,28069688,0.1
+,Natural/Environmental,GRINJ-013,Unintentional,1,White,2106-3,Male,M,35,29519218,0.1
+,Firearm,GRINJ-006,Undetermined ,4,White,2106-3,Male,M,33,29519218,0.1
+,Natural/Environmental,GRINJ-013,Unintentional,1,White,2106-3,Female,F,31,28069688,0.1
+,Other transport,GRINJ-012,Unintentional,1,White,2106-3,Male,M,32,29519218,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Suicide,2,White,2106-3,Male,M,32,29519218,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Unintentional,1,White,2106-3,Male,M,30,29519218,0.1
+,Non-Injury: Meningitis,GR113-050,"Non-Injury, no intent classified",9,White,2106-3,Female,F,27,28069688,0.1
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,"Non-Injury, no intent classified",9,White,2106-3,Male,M,27,29519218,0.1
+,Machinery,GRINJ-007,Unintentional,1,White,2106-3,Male,M,26,29519218,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Homicide,3,White,2106-3,Male,M,26,29519218,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Homicide,3,White,2106-3,Female,F,24,28069688,0.1
+,Non-Injury: Diabetes mellitus,GR113-046,"Non-Injury, no intent classified",9,White,2106-3,Female,F,24,28069688,0.1
+,Unspecified Injury,GRINJ-020,Unintentional,1,White,2106-3,Male,M,24,29519218,0.1
+,Poisoning,GRINJ-015,Homicide,3,White,2106-3,Male,M,22,29519218,0.1
+,"Non-Injury: Other complications of pregnancy, childbirth and the puerperium",GR113-107,"Non-Injury, no intent classified",9,White,2106-3,Female,F,20,28069688,0.1
+,Non-Injury: Complications of medical and surgical care,GR113-135,"Non-Injury, no intent classified",9,White,2106-3,Male,M,21,29519218,0.1
+,Other Pedal cyclist,GRINJ-009,Unintentional,1,White,2106-3,Male,M,20,29519218,0.1
+,Suffocation,GRINJ-017,Undetermined ,4,White,2106-3,Male,M,20,29519218,0.1
+,Non-Injury: Anemias,GR113-045,"Non-Injury, no intent classified",9,White,2106-3,Male,M,20,29519218,0.1
+,Non-Injury: Other acute lower respiratory infections,GR113 079,"Non-Injury, no intent classified",9,White,2106-3,Male,M,20,29519218,0.1
+,Cut/Pierce,GRINJ-001,Homicide,3,White,2106-3,Female,F,11,28069688,Unreliable
+,Cut/Pierce,GRINJ-001,Homicide,3,Black or African American,2054-5,Female,F,11,6224035,Unreliable
+,Drowning,GRINJ-002,Unintentional,1,More than one race,M,Female,F,15,2370648,Unreliable
+,Fall,GRINJ-003,Unintentional,1,White,2106-3,Female,F,14,28069688,Unreliable
+,Fall,GRINJ-003,Unintentional,1,Black or African American,2054-5,Male,M,18,6401519,Unreliable
+,Fall,GRINJ-003,Suicide,2,White,2106-3,Female,F,17,28069688,Unreliable
+,Fall,GRINJ-003,Suicide,2,Asian,A,Male,M,10,2477040,Unreliable
+,Firearm,GRINJ-006,Unintentional,1,Black or African American,2054-5,Female,F,17,6224035,Unreliable
+,Firearm,GRINJ-006,Suicide,2,Black or African American,2054-5,Female,F,16,6224035,Unreliable
+,Firearm,GRINJ-006,Suicide,2,American Indian or Alaska Native,1002-5,Male,M,19,715993,Unreliable
+,Firearm,GRINJ-006,Legal Intervention / Operations of War,5,White,2106-3,Male,M,14,29519218,Unreliable
+,Firearm,GRINJ-006,Legal Intervention / Operations of War,5,Black or African American,2054-5,Male,M,12,6401519,Unreliable
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,Asian,A,Female,F,19,2357677,Unreliable
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,Native Hawaiian or Other Pacific Islander,NHOPI,Male,M,13,141294,Unreliable
+,Other Pedestrian,GRINJ-010,Unintentional,1,White,2106-3,Female,F,19,28069688,Unreliable
+,Other Pedestrian,GRINJ-010,Unintentional,1,Black or African American,2054-5,Male,M,11,6401519,Unreliable
+,Other land transport,GRINJ-011,Unintentional,1,Black or African American,2054-5,Female,F,10,6224035,Unreliable
+,Other land transport,GRINJ-011,Unintentional,1,Black or African American,2054-5,Male,M,12,6401519,Unreliable
+,Other land transport,GRINJ-011,Suicide,2,White,2106-3,Male,M,19,29519218,Unreliable
+,Other land transport,GRINJ-011,Homicide,3,White,2106-3,Male,M,11,29519218,Unreliable
+,Natural/Environmental,GRINJ-013,Unintentional,1,Black or African American,2054-5,Female,F,10,6224035,Unreliable
+,Natural/Environmental,GRINJ-013,Unintentional,1,Black or African American,2054-5,Male,M,18,6401519,Unreliable
+,Poisoning,GRINJ-015,Unintentional,1,Asian,A,Male,M,17,2477040,Unreliable
+,Poisoning,GRINJ-015,Suicide,2,Black or African American,2054-5,Male,M,17,6401519,Unreliable
+,Poisoning,GRINJ-015,Homicide,3,White,2106-3,Female,F,15,28069688,Unreliable
+,Poisoning,GRINJ-015,Homicide,3,Black or African American,2054-5,Female,F,15,6224035,Unreliable
+,Poisoning,GRINJ-015,Undetermined ,4,More than one race,M,Male,M,11,2473608,Unreliable
+,Struck by or against,GRINJ-016,Unintentional,1,White,2106-3,Female,F,16,28069688,Unreliable
+,Suffocation,GRINJ-017,Unintentional,1,American Indian or Alaska Native,1002-5,Female,F,15,687498,Unreliable
+,Suffocation,GRINJ-017,Unintentional,1,American Indian or Alaska Native,1002-5,Male,M,14,715993,Unreliable
+,Suffocation,GRINJ-017,Unintentional,1,Asian,A,Male,M,14,2477040,Unreliable
+,Suffocation,GRINJ-017,Suicide,2,American Indian or Alaska Native,1002-5,Female,F,19,687498,Unreliable
+,Suffocation,GRINJ-017,Suicide,2,American Indian or Alaska Native,1002-5,Male,M,19,715993,Unreliable
+,Suffocation,GRINJ-017,Suicide,2,Asian,A,Male,M,19,2477040,Unreliable
+,Suffocation,GRINJ-017,Suicide,2,More than one race,M,Female,F,17,2370648,Unreliable
+,Suffocation,GRINJ-017,Homicide,3,White,2106-3,Female,F,15,28069688,Unreliable
+,Suffocation,GRINJ-017,Homicide,3,White,2106-3,Male,M,19,29519218,Unreliable
+,Suffocation,GRINJ-017,Homicide,3,Black or African American,2054-5,Female,F,13,6224035,Unreliable
+,Suffocation,GRINJ-017,Homicide,3,Black or African American,2054-5,Male,M,10,6401519,Unreliable
+,Suffocation,GRINJ-017,Undetermined ,4,White,2106-3,Female,F,13,28069688,Unreliable
+,Suffocation,GRINJ-017,Undetermined ,4,Black or African American,2054-5,Male,M,14,6401519,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,Unintentional,1,White,2106-3,Female,F,19,28069688,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,Suicide,2,White,2106-3,Female,F,11,28069688,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Unintentional,1,White,2106-3,Female,F,12,28069688,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Unintentional,1,White,2106-3,Male,M,15,29519218,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Homicide,3,White,2106-3,Female,F,11,28069688,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Homicide,3,White,2106-3,Male,M,19,29519218,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Homicide,3,Black or African American,2054-5,Male,M,13,6401519,Unreliable
+,Unspecified Injury,GRINJ-020,Unintentional,1,Black or African American,2054-5,Male,M,10,6401519,Unreliable
+,Unspecified Injury,GRINJ-020,Homicide,3,More than one race,M,Male,M,12,2473608,Unreliable
+,Unspecified Injury,GRINJ-020,Undetermined ,4,White,2106-3,Female,F,12,28069688,Unreliable
+,Unspecified Injury,GRINJ-020,Undetermined ,4,White,2106-3,Male,M,18,29519218,Unreliable
+,Unspecified Injury,GRINJ-020,Undetermined ,4,Black or African American,2054-5,Male,M,10,6401519,Unreliable
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,Asian,A,Female,F,11,2357677,Unreliable
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,More than one race,M,Female,F,11,2370648,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,Asian,A,Female,F,12,2357677,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,More than one race,M,Female,F,14,2370648,Unreliable
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Female,F,14,687498,Unreliable
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Male,M,10,715993,Unreliable
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,11,6401519,Unreliable
+,Non-Injury: Meningitis,GR113-050,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,10,6224035,Unreliable
+,Non-Injury: Meningitis,GR113-050,"Non-Injury, no intent classified",9,Black or African American,2054-5,Male,M,16,6401519,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,Asian,A,Male,M,12,2477040,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,More than one race,M,Female,F,18,2370648,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,More than one race,M,Male,M,15,2473608,Unreliable
+,Non-Injury: Other diseases of the circulatory system,GR113 073-074,"Non-Injury, no intent classified",9,White,2106-3,Female,F,13,28069688,Unreliable
+,Non-Injury: Other diseases of the circulatory system,GR113 073-074,"Non-Injury, no intent classified",9,White,2106-3,Male,M,18,29519218,Unreliable
+,Non-Injury: Other disorders of circulatory system,GR113-075,"Non-Injury, no intent classified",9,White,2106-3,Male,M,11,29519218,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,Asian,A,Female,F,10,2357677,Unreliable
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,More than one race,M,Male,M,13,2473608,Unreliable
+,Non-Injury: Other acute lower respiratory infections,GR113 079,"Non-Injury, no intent classified",9,White,2106-3,Female,F,12,28069688,Unreliable
+,Non-Injury: Pneumonitis due to solids and liquids,GR113-088,"Non-Injury, no intent classified",9,White,2106-3,Female,F,13,28069688,Unreliable
+,Non-Injury: Pneumonitis due to solids and liquids,GR113-088,"Non-Injury, no intent classified",9,White,2106-3,Male,M,12,29519218,Unreliable
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,"Non-Injury, no intent classified",9,White,2106-3,Female,F,15,28069688,Unreliable
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Female,F,13,135743,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Female,F,15,135743,Unreliable
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Male,M,15,141294,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Female,F,11,135743,Unreliable
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,American Indian or Alaska Native,1002-5,Female,F,15,687498,Unreliable
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,Native Hawaiian or Other Pacific Islander,NHOPI,Male,M,16,141294,Unreliable
+,Non-Injury: Complications of medical and surgical care,GR113-135,"Non-Injury, no intent classified",9,White,2106-3,Female,F,15,28069688,Unreliable
+,Non-Injury: Complications of medical and surgical care,GR113-135,"Non-Injury, no intent classified",9,Black or African American,2054-5,Female,F,10,6224035,Unreliable
+---,,,,,,,,,,,
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race",,,,,,,,,,,
+Query Parameters:,,,,,,,,,,,
+Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years; 10 years; 11 years;,,,,,,,,,,,
+12 years; 13 years; 14 years; 15 years; 16 years; 17 years; 18 years; 19 years,,,,,,,,,,,
+Year/Month: 2023,,,,,,,,,,,
+Group By: Injury Mechanism & All Other Leading Causes; Injury Intent; Single Race 6; Sex,,,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,,,
+Show Zero Values: False,,,,,,,,,,,
+Show Suppressed: False,,,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,,,
+---,,,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information.,,,,,,,,,,,
+---,,,,,,,,,,,
+"Query Date: Apr 27, 2025 1:43:26 AM",,,,,,,,,,,
+---,,,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,,,,,
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,",,,,,,,,,,,
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 27, 2025 1:43:26 AM",,,,,,,,,,,
+---,,,,,,,,,,,
+Messages:,,,,,,,,,,,
+"1. Selections made to any variable in [Injury Intent, Injury Mechanism & All Other Leading Causes] cause equivalent selections",,,,,,,,,,,
+in the other variables. More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables.,,,,,,,,,,,
+2. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,,,
+3. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows.,,,,,,,,,,,
+4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,,,,,
+---,,,,,,,,,,,
+Caveats:,,,,,,,,,,,
+1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality.,,,,,,,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable.,,,,,,,,,,,
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated.,,,,,,,,,,,
+"4. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023",,,,,,,,,,,
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced",,,,,,,,,,,
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend",,,,,,,,,,,
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data",,,,,,,,,,,
+from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1,,,,,,,,,,,
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is",,,,,,,,,,,
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The",,,,,,,,,,,
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic",,,,,,,,,,,
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are",,,,,,,,,,,
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of",,,,,,,,,,,
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,",,,,,,,,,,,
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,,,,,
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year",,,,,,,,,,,
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010",,,,,,,,,,,
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the",,,,,,,,,,,
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on",,,,,,,,,,,
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data.",,,,,,,,,,,
+5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age,,,,,,,,,,,
+Group.,,,,,,,,,,,
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99",,,,,,,,,,,
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences",,,,,,,,,,,
+in information available to individual states and probable errors. Caution should be used in interpreting these data. More,,,,,,,,,,,
+information can be found at: https://www.cdc.gov/nchs/maternal-mortality/.,,,,,,,,,,,
+"7. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,",,,,,,,,,,,
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,",,,,,,,,,,,

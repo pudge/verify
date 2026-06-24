@@ -1,0 +1,191 @@
+Underlying Cause of Death, 2023, age 0-19, Injury Mechanism: by Race
+Notes,Injury Mechanism & All Other Leading Causes,Injury Mechanism & All Other Leading Causes Code,Single Race 6,Single Race 6 Code,Deaths,Population,Crude Rate
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,White,2106-3,5973,57588906,10.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,White,2106-3,3564,57588906,6.2
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,Black or African American,2054-5,2989,12625554,23.7
+,Motor Vehicle Traffic,GRINJ-008,White,2106-3,2908,57588906,5.0
+,Firearm,GRINJ-006,Black or African American,2054-5,2218,12625554,17.6
+,Firearm,GRINJ-006,White,2106-3,1976,57588906,3.4
+,Non-Injury: All other diseases (Residual),GR113-111,White,2106-3,1736,57588906,3.0
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,White,2106-3,1671,57588906,2.9
+,Suffocation,GRINJ-017,White,2106-3,1475,57588906,2.6
+,Poisoning,GRINJ-015,White,2106-3,1454,57588906,2.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,White,2106-3,1340,57588906,2.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,Black or African American,2054-5,1201,12625554,9.5
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,Black or African American,2054-5,1024,12625554,8.1
+,Motor Vehicle Traffic,GRINJ-008,Black or African American,2054-5,769,12625554,6.1
+,Drowning,GRINJ-002,White,2106-3,629,57588906,1.1
+,Suffocation,GRINJ-017,Black or African American,2054-5,607,12625554,4.8
+,Non-Injury: All other diseases (Residual),GR113-111,Black or African American,2054-5,600,12625554,4.8
+,Non-Injury: Diseases of Heart,GR113 055-068,White,2106-3,516,57588906,0.9
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,More than one race,M,486,4844256,10.0
+,Poisoning,GRINJ-015,Black or African American,2054-5,452,12625554,3.6
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,White,2106-3,444,57588906,0.8
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,Asian,A,385,4834717,8.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,Black or African American,2054-5,295,12625554,2.3
+,Drowning,GRINJ-002,Black or African American,2054-5,289,12625554,2.3
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,White,2106-3,284,57588906,0.5
+,Non-Injury: Diseases of Heart,GR113 055-068,Black or African American,2054-5,247,12625554,2.0
+,Non-Injury: Other diseases of respiratory system,GR113-089,White,2106-3,238,57588906,0.4
+,Fire/Flame,GRINJ-004,White,2106-3,214,57588906,0.4
+,Other land transport,GRINJ-011,White,2106-3,213,57588906,0.4
+,Non-Injury: Septicemia,GR113-010,White,2106-3,210,57588906,0.4
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,More than one race,M,206,4844256,4.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,More than one race,M,197,4844256,4.1
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,White,2106-3,195,57588906,0.3
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,Black or African American,2054-5,180,12625554,1.4
+,Unspecified Injury,GRINJ-020,White,2106-3,178,57588906,0.3
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,Asian,A,177,4834717,3.7
+,Fall,GRINJ-003,White,2106-3,143,57588906,0.2
+,"Other specified, classifiable Injury",GRINJ-018,White,2106-3,143,57588906,0.2
+,Suffocation,GRINJ-017,More than one race,M,138,4844256,2.8
+,Firearm,GRINJ-006,More than one race,M,137,4844256,2.8
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,Black or African American,2054-5,137,12625554,1.1
+,Non-Injury: All other diseases (Residual),GR113-111,Asian,A,131,4834717,2.7
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,Black or African American,2054-5,130,12625554,1.0
+,Unspecified Injury,GRINJ-020,Black or African American,2054-5,128,12625554,1.0
+,Motor Vehicle Traffic,GRINJ-008,More than one race,M,116,4844256,2.4
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,American Indian or Alaska Native,1002-5,107,1403491,7.6
+,Non-Injury: Other diseases of respiratory system,GR113-089,Black or African American,2054-5,106,12625554,0.8
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,White,2106-3,106,57588906,0.2
+,Non-Injury: All other diseases (Residual),GR113-111,More than one race,M,104,4844256,2.1
+,Non-Injury: Septicemia,GR113-010,Black or African American,2054-5,101,12625554,0.8
+,Poisoning,GRINJ-015,More than one race,M,98,4844256,2.0
+,Motor Vehicle Traffic,GRINJ-008,American Indian or Alaska Native,1002-5,93,1403491,6.6
+,Non-Injury: Intestinal infections,GR113 001-003,White,2106-3,93,57588906,0.2
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,Asian,A,88,4834717,1.8
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,White,2106-3,88,57588906,0.2
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,Black or African American,2054-5,84,12625554,0.7
+,Fire/Flame,GRINJ-004,Black or African American,2054-5,80,12625554,0.6
+,"Other specified, not elsewhere classified Injury",GRINJ-019,White,2106-3,75,57588906,0.1
+,Cut/Pierce,GRINJ-001,White,2106-3,74,57588906,0.1
+,Other Pedestrian,GRINJ-010,White,2106-3,74,57588906,0.1
+,Firearm,GRINJ-006,Asian,A,73,4834717,1.5
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,More than one race,M,73,4844256,1.5
+,Suffocation,GRINJ-017,American Indian or Alaska Native,1002-5,69,1403491,4.9
+,Non-Injury: Intestinal infections,GR113 001-003,Black or African American,2054-5,68,12625554,0.5
+,Struck by or against,GRINJ-016,White,2106-3,68,57588906,0.1
+,Suffocation,GRINJ-017,Asian,A,66,4834717,1.4
+,Natural/Environmental,GRINJ-013,White,2106-3,66,57588906,0.1
+,Non-Injury: Diabetes mellitus,GR113-046,White,2106-3,66,57588906,0.1
+,Non-Injury: Meningitis,GR113-050,White,2106-3,66,57588906,0.1
+,Motor Vehicle Traffic,GRINJ-008,Asian,A,64,4834717,1.3
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,American Indian or Alaska Native,1002-5,62,1403491,4.4
+,"Other specified, classifiable Injury",GRINJ-018,Black or African American,2054-5,62,12625554,0.5
+,Firearm,GRINJ-006,American Indian or Alaska Native,1002-5,57,1403491,4.1
+,Poisoning,GRINJ-015,American Indian or Alaska Native,1002-5,56,1403491,4.0
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,American Indian or Alaska Native,1002-5,55,1403491,3.9
+,Non-Injury: Diabetes mellitus,GR113-046,Black or African American,2054-5,50,12625554,0.4
+,Cut/Pierce,GRINJ-001,Black or African American,2054-5,48,12625554,0.4
+,Non-Injury: Anemias,GR113-045,Black or African American,2054-5,46,12625554,0.4
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,Asian,A,45,4834717,0.9
+,Drowning,GRINJ-002,More than one race,M,45,4844256,0.9
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Black or African American,2054-5,44,12625554,0.3
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,White,2106-3,42,57588906,0.1
+,Other transport,GRINJ-012,White,2106-3,41,57588906,0.1
+,Drowning,GRINJ-002,Asian,A,39,4834717,0.8
+,Poisoning,GRINJ-015,Asian,A,39,4834717,0.8
+,Non-Injury: All other diseases (Residual),GR113-111,American Indian or Alaska Native,1002-5,38,1403491,2.7
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,Native Hawaiian or Other Pacific Islander,NHOPI,37,277037,13.4
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,More than one race,M,36,4844256,0.7
+,Non-Injury: Complications of medical and surgical care,GR113-135,White,2106-3,36,57588906,0.1
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,Asian,A,34,4834717,0.7
+,Fall,GRINJ-003,Black or African American,2054-5,34,12625554,0.3
+,Non-Injury: Diseases of Heart,GR113 055-068,Asian,A,33,4834717,0.7
+,Non-Injury: Diseases of Heart,GR113 055-068,More than one race,M,33,4844256,0.7
+,Other land transport,GRINJ-011,Black or African American,2054-5,32,12625554,0.3
+,Non-Injury: Other acute lower respiratory infections,GR113 079,White,2106-3,32,57588906,0.1
+,Non-Injury: Other diseases of the circulatory system,GR113 073-074,White,2106-3,31,57588906,0.1
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,Native Hawaiian or Other Pacific Islander,NHOPI,30,277037,10.8
+,Machinery,GRINJ-007,White,2106-3,30,57588906,0.1
+,Natural/Environmental,GRINJ-013,Black or African American,2054-5,28,12625554,0.2
+,Non-Injury: Anemias,GR113-045,White,2106-3,27,57588906,0.0
+,Non-Injury: Meningitis,GR113-050,Black or African American,2054-5,26,12625554,0.2
+,Non-Injury: Pneumonitis due to solids and liquids,GR113-088,White,2106-3,25,57588906,0.0
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,American Indian or Alaska Native,1002-5,24,1403491,1.7
+,Unspecified Injury,GRINJ-020,More than one race,M,24,4844256,0.5
+,Non-Injury: All other diseases (Residual),GR113-111,Native Hawaiian or Other Pacific Islander,NHOPI,23,277037,8.3
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,More than one race,M,22,4844256,0.5
+,Other Pedal cyclist,GRINJ-009,White,2106-3,21,57588906,0.0
+,Non-Injury: Septicemia,GR113-010,Asian,A,20,4834717,0.4
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,Black or African American,2054-5,20,12625554,0.2
+,"Non-Injury: Other complications of pregnancy, childbirth and the puerperium",GR113-107,White,2106-3,20,57588906,0.0
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,Asian,A,19,4834717,Unreliable
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,Native Hawaiian or Other Pacific Islander,NHOPI,19,277037,Unreliable
+,Non-Injury: Complications of medical and surgical care,GR113-135,Black or African American,2054-5,19,12625554,Unreliable
+,Fall,GRINJ-003,Asian,A,18,4834717,Unreliable
+,"Other specified, classifiable Injury",GRINJ-018,More than one race,M,18,4844256,Unreliable
+,Non-Injury: Other disorders of circulatory system,GR113-075,White,2106-3,18,57588906,Unreliable
+,Motor Vehicle Traffic,GRINJ-008,Native Hawaiian or Other Pacific Islander,NHOPI,17,277037,Unreliable
+,Non-Injury: Septicemia,GR113-010,More than one race,M,16,4844256,Unreliable
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,Black or African American,2054-5,16,12625554,Unreliable
+,Non-Injury: Other acute lower respiratory infections,GR113 079,Black or African American,2054-5,14,12625554,Unreliable
+,Other Pedestrian,GRINJ-010,Black or African American,2054-5,12,12625554,Unreliable
+,Drowning,GRINJ-002,American Indian or Alaska Native,1002-5,11,1403491,Unreliable
+,Suffocation,GRINJ-017,Native Hawaiian or Other Pacific Islander,NHOPI,11,277037,Unreliable
+,Non-Injury: Nutritional Deficiencies,GR113 048-049,White,2106-3,11,57588906,Unreliable
+,Non-Injury: Diseases of Heart,GR113 055-068,American Indian or Alaska Native,1002-5,11,1403491,Unreliable
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,Asian,A,11,4834717,Unreliable
+,Non-Injury: Other diseases of the circulatory system,GR113 073-074,Black or African American,2054-5,11,12625554,Unreliable
+,Fall,GRINJ-003,More than one race,M,10,4844256,Unreliable
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,American Indian or Alaska Native,1002-5,10,1403491,Unreliable
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,More than one race,M,10,4844256,Unreliable
+,Non-Injury: Other diseases of respiratory system,GR113-089,Asian,A,10,4834717,Unreliable
+,Non-Injury: Other diseases of respiratory system,GR113-089,More than one race,M,10,4844256,Unreliable
+,Non-Injury: Hernia,GR113-092,White,2106-3,10,57588906,Unreliable
+---,,,,,,,
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race",,,,,,,
+Query Parameters:,,,,,,,
+Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years; 10 years; 11 years;,,,,,,,
+12 years; 13 years; 14 years; 15 years; 16 years; 17 years; 18 years; 19 years,,,,,,,
+Year/Month: 2023,,,,,,,
+Group By: Injury Mechanism & All Other Leading Causes; Single Race 6,,,,,,,
+Show Totals: Disabled,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Apr 26, 2025 7:14:52 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,",,,,,,,
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 26, 2025 7:14:52 PM",,,,,,,
+---,,,,,,,
+Messages:,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,
+2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows.,,,,,,,
+3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality.,,,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable.,,,,,,,
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated.,,,,,,,
+"4. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023",,,,,,,
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced",,,,,,,
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend",,,,,,,
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data",,,,,,,
+from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1,,,,,,,
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is",,,,,,,
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The",,,,,,,
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic",,,,,,,
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are",,,,,,,
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of",,,,,,,
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,",,,,,,,
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year",,,,,,,
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010",,,,,,,
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the",,,,,,,
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on",,,,,,,
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data.",,,,,,,
+5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age,,,,,,,
+Group.,,,,,,,

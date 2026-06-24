@@ -1,0 +1,134 @@
+Underlying Cause of Death, 2023, age 0-19, Injury Mechanism: by Intent
+Notes,Injury Mechanism & All Other Leading Causes,Injury Mechanism & All Other Leading Causes Code,Injury Intent,Injury Intent Code,Deaths,Population,Crude Rate
+,Non-Injury: Certain conditions originating in the perinatal period,GR113-108,"Non-Injury, no intent classified",9,9977,81573961,12.2
+,"Non-Injury: Congenital malformations, deformations and chromosomal abnormalities",GR113-109,"Non-Injury, no intent classified",9,5056,81573961,6.2
+,Motor Vehicle Traffic,GRINJ-008,Unintentional,1,3967,81573961,4.9
+,"Non-Injury: Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified",GR113-110,"Non-Injury, no intent classified",9,3195,81573961,3.9
+,Firearm,GRINJ-006,Homicide,3,2947,81573961,3.6
+,Non-Injury: All other diseases (Residual),GR113-111,"Non-Injury, no intent classified",9,2632,81573961,3.2
+,Non-Injury: Malignant neoplasms (Cancers),GR113 020-043,"Non-Injury, no intent classified",9,1829,81573961,2.2
+,Poisoning,GRINJ-015,Unintentional,1,1580,81573961,1.9
+,Suffocation,GRINJ-017,Unintentional,1,1334,81573961,1.6
+,Firearm,GRINJ-006,Suicide,2,1253,81573961,1.5
+,Drowning,GRINJ-002,Unintentional,1,960,81573961,1.2
+,Suffocation,GRINJ-017,Suicide,2,908,81573961,1.1
+,Non-Injury: Diseases of Heart,GR113 055-068,"Non-Injury, no intent classified",9,845,81573961,1.0
+,Non-Injury: Other and unspecified infectious and parasitic diseases and their sequelae,GR113-018,"Non-Injury, no intent classified",9,708,81573961,0.9
+,Non-Injury: Influenza & Pneumonia,GR113 077-078,"Non-Injury, no intent classified",9,471,81573961,0.6
+,Non-Injury: Other diseases of respiratory system,GR113-089,"Non-Injury, no intent classified",9,376,81573961,0.5
+,Non-Injury: Septicemia,GR113-010,"Non-Injury, no intent classified",9,356,81573961,0.4
+,"Non-Injury: Cerebrovascular diseases, including stroke",GR113-070,"Non-Injury, no intent classified",9,306,81573961,0.4
+,Fire/Flame,GRINJ-004,Unintentional,1,270,81573961,0.3
+,Poisoning,GRINJ-015,Suicide,2,247,81573961,0.3
+,Unspecified Injury,GRINJ-020,Homicide,3,239,81573961,0.3
+,Non-Injury: Chronic lower respiratory diseases,GR113 082,"Non-Injury, no intent classified",9,234,81573961,0.3
+,Other land transport,GRINJ-011,Unintentional,1,203,81573961,0.2
+,Poisoning,GRINJ-015,Undetermined ,4,189,81573961,0.2
+,Non-Injury: Intestinal infections,GR113 001-003,"Non-Injury, no intent classified",9,178,81573961,0.2
+,Firearm,GRINJ-006,Unintentional,1,143,81573961,0.2
+,"Non-Injury: In situ neoplasms, benign neoplasms and neoplasms of uncertain or unknown behavior",GR113-044,"Non-Injury, no intent classified",9,142,81573961,0.2
+,Non-Injury: Diabetes mellitus,GR113-046,"Non-Injury, no intent classified",9,126,81573961,0.2
+,Cut/Pierce,GRINJ-001,Homicide,3,117,81573961,0.1
+,Fall,GRINJ-003,Suicide,2,109,81573961,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Homicide,3,109,81573961,0.1
+,Non-Injury: Meningitis,GR113-050,"Non-Injury, no intent classified",9,101,81573961,0.1
+,Fall,GRINJ-003,Unintentional,1,100,81573961,0.1
+,Natural/Environmental,GRINJ-013,Unintentional,1,99,81573961,0.1
+,Firearm,GRINJ-006,Undetermined ,4,98,81573961,0.1
+,Other Pedestrian,GRINJ-010,Unintentional,1,95,81573961,0.1
+,Poisoning,GRINJ-015,Homicide,3,87,81573961,0.1
+,Non-Injury: Anemias,GR113-045,"Non-Injury, no intent classified",9,76,81573961,0.1
+,Struck by or against,GRINJ-016,Unintentional,1,72,81573961,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Unintentional,1,67,81573961,0.1
+,Suffocation,GRINJ-017,Homicide,3,66,81573961,0.1
+,"Non-Injury: Nephritis, nephrotic syndrome and nephrosis",GR113 097,"Non-Injury, no intent classified",9,64,81573961,0.1
+,Non-Injury: Complications of medical and surgical care,GR113-135,"Non-Injury, no intent classified",9,62,81573961,0.1
+,Suffocation,GRINJ-017,Undetermined ,4,58,81573961,0.1
+,"Other specified, classifiable Injury",GRINJ-018,Suicide,2,57,81573961,0.1
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Homicide,3,57,81573961,0.1
+,Unspecified Injury,GRINJ-020,Unintentional,1,52,81573961,0.1
+,Other transport,GRINJ-012,Unintentional,1,51,81573961,0.1
+,Unspecified Injury,GRINJ-020,Undetermined ,4,50,81573961,0.1
+,Non-Injury: Other acute lower respiratory infections,GR113 079,"Non-Injury, no intent classified",9,48,81573961,0.1
+,Non-Injury: Other diseases of the circulatory system,GR113 073-074,"Non-Injury, no intent classified",9,47,81573961,0.1
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Unintentional,1,43,81573961,0.1
+,Non-Injury: Pneumonitis due to solids and liquids,GR113-088,"Non-Injury, no intent classified",9,38,81573961,0.0
+,Machinery,GRINJ-007,Unintentional,1,32,81573961,0.0
+,"Non-Injury: Other complications of pregnancy, childbirth and the puerperium",GR113-107,"Non-Injury, no intent classified",9,32,81573961,0.0
+,Firearm,GRINJ-006,Legal Intervention / Operations of War,5,29,81573961,0.0
+,Non-Injury: Other disorders of circulatory system,GR113-075,"Non-Injury, no intent classified",9,29,81573961,0.0
+,Other land transport,GRINJ-011,Homicide,3,28,81573961,0.0
+,Other land transport,GRINJ-011,Suicide,2,27,81573961,0.0
+,Fire/Flame,GRINJ-004,Undetermined ,4,26,81573961,0.0
+,Other Pedal cyclist,GRINJ-009,Unintentional,1,26,81573961,0.0
+,Drowning,GRINJ-002,Undetermined ,4,25,81573961,0.0
+,Non-Injury: Nutritional Deficiencies,GR113 048-049,"Non-Injury, no intent classified",9,22,81573961,0.0
+,Drowning,GRINJ-002,Suicide,2,18,81573961,Unreliable
+,Fire/Flame,GRINJ-004,Homicide,3,18,81573961,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Legal Intervention / Operations of War,5,17,81573961,Unreliable
+,Drowning,GRINJ-002,Homicide,3,16,81573961,Unreliable
+,Cut/Pierce,GRINJ-001,Suicide,2,13,81573961,Unreliable
+,"Other specified, not elsewhere classified Injury",GRINJ-019,Undetermined ,4,12,81573961,Unreliable
+,Non-Injury: Hernia,GR113-092,"Non-Injury, no intent classified",9,11,81573961,Unreliable
+,Non-Injury: Diseases of appendix,GR113-091,"Non-Injury, no intent classified",9,10,81573961,Unreliable
+,Non-Injury: Chronic liver disease and cirrhosis,GR113 093,"Non-Injury, no intent classified",9,10,81573961,Unreliable
+---,,,,,,,
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race",,,,,,,
+Query Parameters:,,,,,,,
+Single-Year Ages: < 1 year; 1 year; 2 years; 3 years; 4 years; 5 years; 6 years; 7 years; 8 years; 9 years; 10 years; 11 years;,,,,,,,
+12 years; 13 years; 14 years; 15 years; 16 years; 17 years; 18 years; 19 years,,,,,,,
+Year/Month: 2023,,,,,,,
+Group By: Injury Mechanism & All Other Leading Causes; Injury Intent,,,,,,,
+Show Totals: Disabled,,,,,,,
+Show Zero Values: False,,,,,,,
+Show Suppressed: False,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Apr 26, 2025 7:17:56 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,",,,,,,,
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Apr 26, 2025 7:17:56 PM",,,,,,,
+---,,,,,,,
+Messages:,,,,,,,
+"1. Selections made to any variable in [Injury Intent, Injury Mechanism & All Other Leading Causes] cause equivalent selections",,,,,,,
+in the other variables. More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables.,,,,,,,
+2. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,
+3. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows.,,,,,,,
+4. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.,,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality.,,,,,,,
+2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable.,,,,,,,
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,",,,,,,,
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Not Stated.,,,,,,,
+"4. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023",,,,,,,
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced",,,,,,,
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend",,,,,,,
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data",,,,,,,
+from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1,,,,,,,
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is",,,,,,,
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The",,,,,,,
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic",,,,,,,
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are",,,,,,,
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of",,,,,,,
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,",,,,,,,
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year",,,,,,,
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010",,,,,,,
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the",,,,,,,
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on",,,,,,,
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data.",,,,,,,
+5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age,,,,,,,
+Group.,,,,,,,
+"6. Beginning with the 2018 data, changes have been implemented that affect the counts for ICD-10 cause of death codes O00-O99",,,,,,,
+"compared to previous practice. In addition, data for the cause of death codes O00-O99 for 2003 through 2017 reflect differences",,,,,,,
