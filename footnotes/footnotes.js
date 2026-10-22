@@ -69,9 +69,21 @@ function doTable() {
     }
 
     var footnote = ''
-    var link = '<a href="' + x.link + '">' + x.article_name + '</a>'
+    var link_url = x.link
+//     const timestampInSeconds = 1792620961 // Math.floor(Date.now() / 1000)
+//     if (link_url.match('\\?')) {
+//       link_url += '&ts=' + timestampInSeconds
+//     }
+//     else {
+//       link_url += '?ts=' + timestampInSeconds
+//     }
+
+    var link = '<a href="' + link_url + '">' + (x.article_name || x.publication_name) + '</a>'
     if (x.type == 'book') {
-      footnote = x.author_names + ', <em>' + link + '</em>'
+      footnote = '<em>' + link + '</em>'
+      if (x.author_names) {
+        footnote = x.author_names + ', ' + footnote
+      }
       if (x.publication_name || x.date) {
         var extra = ' ('
         if (x.publication_name) {
@@ -87,7 +99,7 @@ function doTable() {
       }
     }
     else {
-      if (x.article_name) {
+      if (x.article_name || x.publication_name) {
         if (x.publication_name || x.date) {
           footnote = '“' + link + ',”'
           if (x.publication_name) {
@@ -109,10 +121,10 @@ function doTable() {
       }
       else {
         if (link_icon) {
-          footnote = link_icon + '<a href="' + x.link + '">' + link_text + '</a>'
+          footnote = link_icon + '<a href="' + link_url + '">' + link_text + '</a>'
         }
         else {
-          footnote = '<em><a href="' + x.link + '">' + link_text + '</a></em>'
+          footnote = '<em><a href="' + link_url + '">' + link_text + '</a></em>'
         }
         if (x.date) {
           footnote += ', ' + x.date
@@ -123,19 +135,27 @@ function doTable() {
     var archive = ''
     if (x.archive_link) {
       archive = '<a href="' + x.archive_link + '" class="archive">↺</a>'
+//       var webarchive_name = $('<span>' + x.footnote_number + '. ' + footnote + '</span>').text()
+//         .replaceAll(':','--').replaceAll('?','--').replaceAll('/','--')
+//         .replaceAll("\u00A0",'').replaceAll('(','').replaceAll(')','')
+//         .replaceAll('—','--')
+//         .replaceAll('%','--')
+//         .replaceAll('&','--')
+//         .replaceAll("\u00E9",'e')
+//       var webarchive_ext = link_url.match('\\.pdf') || link_url.match('Download\\.aspx') || link_url.match('fwd\\.us') || link_url.match('nada\\.org') || link_url.match('courtlistener') || link_url.match('legacy\\.knightfoundation') ? 'pdf' : 'webarchive'
+//       var fix_key = key.replace(':', ' -')
+//       archive += ' <a href="/archives/' + fix_key + '/' + webarchive_name + '.' + webarchive_ext + '" class="archive">↻</a>'
     }
 
     record.append(x.footnote_number + '.&nbsp;' + footnote + '&nbsp;' + archive)
     chapters[key].push(record)
 
-/* 
-    row.append($('<td>').text(chapter_name))
-    row.append($('<td>').text(x.page_number))
-    row.append($('<td>').text(x.footnote_number))
-    row.append($('<td>').html(footnote))
-    row.append($('<td>').html(archive))
-    table.append(row)
- */
+//     row.append($('<td>').text(chapter_name))
+//     row.append($('<td>').text(x.page_number))
+//     row.append($('<td>').text(x.footnote_number))
+//     row.append($('<td>').html(footnote))
+//     row.append($('<td>').html(archive))
+//     table.append(row)
   }
 
   for (const [key, value] of Object.entries(chapters)) {

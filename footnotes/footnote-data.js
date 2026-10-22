@@ -3167,9 +3167,9 @@ var footnotes = [
     "archive_link": "https://archive.today/4AZ4j",
     "publication_name": "International Press Freedom Awards",
     "author_names": "",
-    "article_name": "",
+    "article_name": "Christiane Amanpour",
     "date": "November 22 2016",
-    "type": "document"
+    "type": "article"
   },
   {
     "chapter_name": "Objectivity",
@@ -3398,7 +3398,7 @@ var footnotes = [
     "page_number": "137",
     "footnote_number": "104",
     "link": "https://www.semafor.com/article/11/06/2025/cond-nast-abruptly-fires-4-staffers-after-hr-confrontation",
-    "archive_link": "https://archive.today/DS7dP",
+    "archive_link": "https://web.archive.org/web/20251106180939/https://www.semafor.com/article/11/06/2025/cond-nast-abruptly-fires-4-staffers-after-hr-confrontation",
     "publication_name": "Semafor",
     "author_names": "Max Tani",
     "article_name": "Condé Nast abruptly fires 4 staffers after HR confrontation",

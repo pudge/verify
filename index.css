@@ -115,7 +115,8 @@ div.footnote {
     /* font-style: oblique; */
 }
 
-a:link, a:visited, a:hover, a:active { 
+/* , a:visited */
+a:link, a:hover, a:active { 
     color: #1000ff;
 }
 
