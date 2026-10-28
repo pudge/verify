@@ -7233,7 +7233,7 @@ var footnotes = [
     "page_number": "261",
     "footnote_number": "30",
     "link": "https://www.cnn.com/2017/02/10/politics/russia-dossier-update",
-    "archive_link": "https://archive.today/kxn4p",
+    "archive_link": "https://web.archive.org/web/20170210225452/http://www.cnn.com/2017/02/10/politics/russia-dossier-update/",
     "publication_name": "CNN",
     "author_names": "Jim Sciutto and Evan Perez",
     "article_name": "US investigators corroborate some aspects of the Russia dossier",

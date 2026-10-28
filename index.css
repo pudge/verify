@@ -1,9 +1,3 @@
-/* 
-div {
-    border: 3px dotted #666;
-}
- */
-
 html {
     height: 99%;
 }
@@ -50,9 +44,6 @@ div.footnote {
     text-indent: 2em;
     font-size: 1em;
     font-weight: normal;
-/* 
-    display: none;
- */
     overflow-wrap: anywhere;
 }
 
@@ -82,6 +73,11 @@ div.footnote {
     width: 0.8em;
 }
 
+.footer_icon {
+    width: 1em;
+    margin: 1em;
+}
+
 #desc {
     margin: 0 auto;
     padding: 0em 1em 1em 1em;
@@ -94,7 +90,7 @@ div.footnote {
     float: left;
     margin: .33em;
     margin-right: .66em;
-    width: 15em; 
+    width: 13em;
     border: 1px solid #000;
 }
 
@@ -115,8 +111,7 @@ div.footnote {
     /* font-style: oblique; */
 }
 
-/* , a:visited */
-a:link, a:hover, a:active { 
+a:link, a:hover, a:active, a:visited {
     color: #1000ff;
 }
 
