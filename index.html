@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="index.css">
     <link href="https://fonts.cdnfonts.com/css/din-alternate" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Spectral:400,400i,600,600i" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.30.1/moment.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
@@ -43,28 +44,25 @@
         </div>
 
 
-        <h2>Pre-Order Now</h2>
+        <h2>Buy Now</h2>
 
         <div id="books">
-            <div class="book disabled">
+            <div class="book">
                 <a href="https://www.amazon.com/dp/B0HPN92CNC" title="Amazon" class="nolink">
                     <img src="images/services/amazon.webp" alt="Buy it on Amazon">
                     <br>Paperback
-                    <div class="disableme">Available 2026-11-11</div>
                 </a>
             </div>
             <div class="book">
                 <a href="https://www.amazon.com/dp/B0HPP6BBYB" title="Kindle" class="nolink">
                     <img src="images/services/kindle.webp" alt="Buy it on Kindle">
                     <br>eBook
-                    <div class="disableme">Available 2026-10-31</div>
                 </a>
             </div>
             <div class="book">
                 <a href="http://books.apple.com/us/book/id6826375576" title="Books" class="nolink">
                     <img src="images/services/books.webp" alt="Buy it on Apple Books">
                     <br>eBook
-                    <div class="disableme">Available 2026-10-31</div>
                 </a>
             </div>
         </div>
@@ -74,7 +72,7 @@
 
             <h3>Playlist</h3>
             <ul>
-                <li>Songs mentioned in, or relating to, the book<ul>
+                <li>Songs mentioned in, or relating to, the book<ul class="services">
                     <li>
                         <a href="https://music.apple.com/us/playlist/dont-trust-verify/pl.u-K9b6H1lk3" title="music (EXPLICIT)" class="nolink">
                             <img src="images/services/music.webp" alt="Apple Music" class="service">
@@ -101,17 +99,12 @@
 
 
             <h3>Footnotes</h3>
-            <div class="disabled"><div class="disableme">Available 2026-11-11</div></div>
-<!-- 
             <ul>
                 <li><a href="footnotes/">Links from all the footnotes</a> (especially for those who have the paper book)</li>
             </ul>
- -->
 
 
             <h3>Data and Images</h3>
-            <div class="disabled"><div class="disableme">Available 2026-11-11</div></div>
-<!-- 
             <ul>
                 <li>Chapter 1, <em>Media</em><ul>
                     <li>Richard F. Outcault, “<a class="pic" href="images/book/Yellow_Kid_1898-01-09.jpg">The Yellow Kid’s R-R-R-Revenge; Or, How the Painter’s Son Got Fresh</a>,” <em>The New York Journal</em>, January 9 1898</li>
@@ -129,7 +122,7 @@
                 </ul></li>
                 <li>Chapter 4, <em>Truth</em><ul>
                     <li>Social Security Trust Fund Depletion<ul>
-                        <li><a href="https://github.com/pudge/verify/tree/🔎/data/ssa-fund-depletion">SSA Depletion data</a> (various formats, see README)</li>
+                        <li><a href="https://github.com/pudge/verify/tree/🔎/data/ssa-fund-depletion">SSA Depletion data on GitHub</a> (various formats, see README)</li>
                         <li><a class="pic" href="data/ssa-fund-depletion/graph.png">SSA Depletion graph</a></li>
                     </ul></li>
                 </ul></li>
@@ -144,12 +137,13 @@
                         <li><a class="pic" href="images/book/cbc-graph-expanded.png">CBC Funding, original graph (expanded height)</a></li>
                         <li><a class="pic" href="images/book/cbc-graph-fixed.png">CBC Funding, corrected graph</a></li>
                     </ul></li>
-                    <li>NYT Immigation support<ul>
+                    <li>NYT Immigration support<ul>
                         <li><a class="pic" href="images/book/nyt-graph.png">Immigration support graph</a></li>
                         <li><a class="pic" href="images/book/nyt-graph-fake-lines.png">Immigration support graph, with faked trendlines</a></li>
                     </ul></li>
                     <li>Child Cause of Death (Chapter 10, <em>Verifiability: Data</em>)<ul>
-                        <li><a href="https://github.com/pudge/verify/tree/🔎/data/child-cause-of-death">data</a> (various formats, see README)</li>
+                        <li><a href="https://github.com/pudge/verify/tree/🔎/data/child-cause-of-death">data on GitHub</a> (various formats, see README)</li>
+                        <li><a href="https://docs.google.com/spreadsheets/d/1zL-E9B_a_Po4prhnjJvglqTfCAcjcfuIZQrVwxVjjtk/edit?usp=sharing">Google spreadsheet</a>
                         <li>graphs<ol start="0">
                             <li><a class="pic" href="data/child-cause-of-death/graphs/0-deaths_0-19_by_age.png">deaths 0-19, by age</a></li>
                             <li><a class="pic" href="data/child-cause-of-death/graphs/1-deaths_1-19_by_age.png">deaths 1-19, by age</a></li>
@@ -162,7 +156,6 @@
                     </ul></li>
                 </ul></li>
             </ul>
- -->
 
 
         <h2>About the Author</h2>

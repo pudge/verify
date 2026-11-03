@@ -53,6 +53,13 @@ ol {
     start: 0
 }
 
+.note {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+	font-family: var(--body-font);
+    font-size: 0.9em;
+}
+
 div#footnotes {
     font-size: 0.9em;
 }
@@ -176,7 +183,7 @@ a.nolink:link, a.nolink:hover, a.nolink:active, a.nolink:visited {
 }
 
 .disabled {
-    opacity: 0.6;
+    opacity: 0.8;
     filter: grayscale(100%);
     cursor: not-allowed;
     pointer-events: none;
@@ -187,7 +194,7 @@ a.nolink:link, a.nolink:hover, a.nolink:active, a.nolink:visited {
 }
 
 .disabled .disableme {
-    font-size: 0.7em;
+    font-size: 0.8em;
     display: block;
 }
 
