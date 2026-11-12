@@ -40,7 +40,7 @@ h2 {
     padding-top: 1em;
 }
 
-li, .bodytext, #footnotes, #footnotes2 {
+li, .bodytext, #footnotes, #verfy, #nandy {
 	font-family: var(--body-font);
 }
 
@@ -62,19 +62,6 @@ ol {
 
 div#footnotes {
     font-size: 0.9em;
-}
-
-table#footnotes2 {
-    border-collapse: collapse;
-    margin-left: auto;
-    margin-right: auto;
-    display: none;
-}
-
-table#footnotes2 th,td {
-    padding: 2px;
-    font-size: 0.8em;
-    border: 1px solid #000;
 }
 
 div.chapter {
@@ -146,13 +133,33 @@ div.page_num {
     font-size: 1em;
 }
 
-#cover {
+#cover, img.award {
     position: relative;
     float: left;
     margin: .33em;
     margin-right: 1.33em;
+    margin-bottom: 2em;
     width: 13em;
     max-width: 40%;
+}
+
+h3.award {
+    border-top: var(--text-color) 1pt solid;
+    margin-top: 1em;
+    padding-top: 1em;
+    clear: both;
+}
+
+div.award {
+    font-size: 0.9em;
+}
+
+span.award_name {
+    font-weight: bold;
+}
+
+span.award_desc {
+    font-style: italic;
 }
 
 #footer {
